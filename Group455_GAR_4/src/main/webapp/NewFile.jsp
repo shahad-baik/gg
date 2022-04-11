@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>shahad baik</h1>
+<h1>baik </h1>
 <h1>Karam</h1>
 </body>
 </html>
